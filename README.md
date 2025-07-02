@@ -1,26 +1,50 @@
-# Curso-Interface-Udemy-PROJETO.MOVE 
+# Projeto MOVE
 
-**Descrição**
+## Descrição do Projeto
 
-Olá, sejam bem vindos ao projeto MOVE!
-
-Estou compartilhando o meu 3 projeto de aprendizado no meu ccurso de [Design de interfaces](https://www.udemy.com/course/figma-design-interfaces/?couponCode=KEEPLEARNINGBR)  no [Figma](https://www.figma.com), oferecido pela plataforma online de cursos, a [Udemy](https://www.udemy.com/). Este projeto é voltado para fins de aprendizado e a prática de design de interfaces, o objetivo deste projeto é desenvolver um site para uma empresa de mudança que ofereça um serviço fácil e descomplicado, espero que gostem do resultado!
----
-
-**Demonstração**
-
-Segue link para visualização do projeto: [Link para o projeto](https://shre.ink/UdemyprojetoMOVE)  
+Uma landing page desenvolvida para uma empresa de móveis fícticia, com foco principal na criação de uma janela para solicitação de orçamento. O projeto explorou a usabilidade e a experiência do usuário em formulários de contato e apresentação de serviços.
 
 ---
 
-**Contribuições**
+## Funcionalidades Principais
 
-O projeto está aberto para sugestões, melhorias, dicas e críticas! Fique à vontade para abrir uma issue ou enviar um pull request!
+    * Interface de usuário otimizada para desktop.
+    * Simulação de processo de agendamento de serviço.
+    * Criação de guia de estilo.
+    * Criação de identidade visual própria por meio da elaboração de Tipografia, componentes e paleta de cores.
+    * Criação de Wireframe.
+    * Criação de widget interativo.
+    * Criação e aplicação prática de botões.
+    * Elaboração de modais por meio de overlays.
+
 
 ---
 
-**Contato**
+## Como Visualizar o Projeto
 
-- GitHub: [https://github.com/MateusL1sboa](https://github.com/MateusL1sboa)
-- LinkedIn: [https://www.linkedin.com/in/pablo-mateus-95a15a198/](https://www.linkedin.com/in/pablo-mateus-95a15a198/)
+Para explorar o design e o protótipo interativo deste projeto:
 
+1.  **Acesse o Projeto no Figma:**
+    * Clique no link abaixo para visualizar o arquivo Figma original, onde você pode inspecionar camadas, estilos e componentes.
+    * [Link para o arquivo Figma do projeto](https://shre.ink/ProjetoMOVE)
+
+2.  **Interaja com o Protótipo:**
+    * Use o link direto para o protótipo do Figma para simular a interação com a interface como se fosse um aplicativo real.
+    * [Link para o protótipo direto do Figma para visualização](https://shre.ink/ProjetoMOVEPrototipo)
+      
+
+---
+
+## Contexto do Desenvolvimento
+
+Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. O projeto MOVE abordou o uso e a importancia de Wireframes para a elaboração de uma interface Web, bem como a criação de Widgets interativos e a aplicação de bons formulários.
+
+---
+
+## Contato
+
+Segue abaixo meios para contato direto comigo:
+
+[Linkedin](www.linkedin.com/in/mateus-nascimento-95a15a198)
+
+[E-mail para contato](contatomateusnasc@protonmail.com)
