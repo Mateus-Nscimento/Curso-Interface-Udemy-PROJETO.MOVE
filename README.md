@@ -16,6 +16,7 @@ Uma landing page desenvolvida para uma empresa de móveis fícticia, com foco pr
     * Criação de widget interativo.
     * Criação e aplicação prática de botões.
     * Elaboração de modais por meio de overlays.
+    * Elaboração e analíse de bons formulários.
 
 
 ---
